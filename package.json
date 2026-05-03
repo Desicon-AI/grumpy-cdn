@@ -1,0 +1,23 @@
+{
+  "name": "desicon-grumpy-cdn",
+  "version": "1.0.0",
+  "description": "Browser CDN script for Grumpy AI Rescue Engine",
+  "main": "grumpy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/desicon/grumpy-cdn"
+  },
+  "keywords": [
+    "sre",
+    "error",
+    "logging",
+    "ai",
+    "browser",
+    "cdn"
+  ],
+  "author": "Desicon Platform",
+  "license": "MIT"
+}
